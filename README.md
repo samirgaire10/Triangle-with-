@@ -14,6 +14,6 @@ Run file
 ```
 ./Triangle.o 
 ```
-![This is an image](./Triangle.png)
+![This is an image](./Triangle .png)
 
 
